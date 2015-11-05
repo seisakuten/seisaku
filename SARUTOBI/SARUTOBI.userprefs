@@ -1,9 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/1myScript/UnityBehaviour.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BreakableItems/Editor/Image Effects/CameraMotionBlurEditor.js">
     <Files>
       <File FileName="Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/IdleChanger.cs" Line="1" Column="1" />
-      <File FileName="Assets/1myScript/UnityBehaviour.cs" Line="24" Column="26" />
+      <File FileName="Assets/BreakableItems/Scripts/Extension/objectOcclusionCulling.cs" Line="1" Column="1" />
+      <File FileName="Assets/BreakableItems/Scripts/Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets/BreakableItems/Scripts/CollisionTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/BreakableItems/Editor/Image Effects/CameraMotionBlurEditor.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
