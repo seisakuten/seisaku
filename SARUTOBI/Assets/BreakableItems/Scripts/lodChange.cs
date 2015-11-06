@@ -8,7 +8,8 @@ public class lodChange : MonoBehaviour {
 	{
 		fragmentObjects.SetActive(false);
 	}
-	
+
+	//When Collider into other Trigger
 	void OnTriggerEnter(Collider other)
 	{
 	 	if (other.tag.Contains ("Collider")){

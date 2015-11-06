@@ -5,7 +5,7 @@ public class Shoot : MonoBehaviour
 {
 
 		public Transform bullet;
-		public float bulletSpeed = 0.3333f;
+	public float bulletSpeed = 2.0f;
 		public float  BulletRange = 20.0f;
 		private  Vector3 BulletVect = new Vector3 (0, 0, 0); 
 		private  float distance;

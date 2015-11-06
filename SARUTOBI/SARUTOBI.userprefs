@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BreakableItems/Editor/Image Effects/CameraMotionBlurEditor.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LeapMotion/Scripts/Hands/SkeletalHand.cs">
     <Files>
-      <File FileName="Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/IdleChanger.cs" Line="1" Column="1" />
-      <File FileName="Assets/BreakableItems/Scripts/Extension/objectOcclusionCulling.cs" Line="1" Column="1" />
-      <File FileName="Assets/BreakableItems/Scripts/Shoot.cs" Line="1" Column="1" />
-      <File FileName="Assets/BreakableItems/Scripts/CollisionTrigger.cs" Line="1" Column="1" />
-      <File FileName="Assets/BreakableItems/Editor/Image Effects/CameraMotionBlurEditor.js" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/SkeletalHand.cs" Line="1" Column="1" />
+      <File FileName="Assets/LeapMotion/Scripts/Hands/RiggedFinger.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
